@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namste react",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/codesanket22/sank-react1.git)"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Sanket k",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
+
